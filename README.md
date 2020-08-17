@@ -3,7 +3,7 @@
 
 ### Install
 ```
-composer require ssskit/zip
+composer require ssskit/easyzip
 ```
 
 ### Use
